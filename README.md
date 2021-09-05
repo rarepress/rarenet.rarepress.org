@@ -233,7 +233,7 @@ How it works: Click the "refresh" button to get the art you like, and press "min
 To try it out, click the "Result" tab and click "Mint" button from the JSFiddle below. Before you try it out, make sure you have Metamask installed (https://metamask.io).
 
 
-<iframe width="100%" height="600" src="//jsfiddle.net/skogard/jnhw6x0b/10/embedded/html,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="600" src="//jsfiddle.net/skogard/jnhw6x0b/14/embedded/html,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ---
 
@@ -612,7 +612,7 @@ Rareterm works in the browser. You can import it in 2 ways:
 All you need to do is include a `<script>` tag:
 
 ```
-<script src="https://unpkg.com/rareterm@0.0.4"></script>
+<script src="https://unpkg.com/rareterm@0.0.8"></script>
 ```
 
 ### Import from JavaScript frameworks
